@@ -8,7 +8,7 @@ commands:
     aliases: ["pv"]
 permissions:
   playervaults.vault.1:
-    default: true
+    default: false
   playervaults.others.edit:
     default: op
   playervaults.others.view:
